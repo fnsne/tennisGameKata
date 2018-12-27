@@ -1,7 +1,9 @@
 # tennisGameKata
+
 Implement the tennisGameKata by Golang
 
-# test case
+## test case
+
 case name | play A score | play B score
 --- |---|---
 Love All | 0|0
